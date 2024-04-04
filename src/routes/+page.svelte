@@ -24,7 +24,7 @@
         class="animated flex items-center space-x-3 rtl:space-x-reverse"
       >
         <img
-          src="src/images/logo.png"
+          src="static/logo.png"
           class="h-12 rounded-full md:h-20"
           alt="logo"
         />
@@ -163,7 +163,7 @@
         </div>
       </div>
       <img
-        src="src/images/logo.png"
+        src="static/logo.png"
         class="w-48 h-48 md:w-64 md:h-64 mx-auto md:mr-auto"
         alt="Home Image"
       />

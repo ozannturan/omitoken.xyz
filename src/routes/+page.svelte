@@ -132,7 +132,9 @@
     >
       <div class="animated flex flex-col items-center text-center">
         <p class="font-serif text-5xl md:text-9xl mt-8">Welcome to OMI TOKEN</p>
-        <b>Omchain network's first meme token</b>
+        <b class="font-serif text-3xl md:text-3xl mt-8"
+          >Omchain network's first meme token</b
+        >
         <div class="flex mt-4 space-x-4">
           <a
             href="#"
@@ -144,19 +146,19 @@
           <a
             href="https://x.com/Omimemetoken?t=O-8iv1Qt8Hej0etAuz5l5g&s=09"
             target="_blank"
-            class="text-white hover:text-gray-300 transition-all duration-300"
+            class="text-white text-3xl md:text-3xl mt-8 hover:text-gray-300 transition-all duration-300"
           >
             <i class="fab fa-twitter"></i>
           </a>
           <a
             href="#"
             target="_blank"
-            class="text-white hover:text-gray-300 transition-all duration-300"
+            class="text-white text-3xl md:text-3xl mt-8 hover:text-gray-300 transition-all duration-300"
           >
             <i class="fab fa-telegram"></i>
           </a>
           <button
-            class="text-white hover:text-gray-300 transition-all duration-300 focus:outline-none"
+            class="text-white text-3xl md:text-3xl mt-8 hover:text-gray-300 transition-all duration-300 focus:outline-none"
           >
             Buy
           </button>
@@ -172,21 +174,21 @@
     <section id="about">
       <div class="px-4 mb-20 container mx-auto">
         <div class="px-4 max-w-4xl mx-auto text-center">
-          <h2 class="px-4 text-3xl md:text-4xl font-bold mb-6">
+          <h2 class="px-4 text-5xl md:text-6xl mt-8 font-bold mb-6">
             About OMI Token
           </h2>
-          <p class="px-4 text-lg md:text-xl leading-relaxed mb-12">
+          <p class="px-4 text-3xl md:text-2xl  leading-relaxed mb-12">
             OMI MEME is a polar movement dedicated to Crypto lovers. Its sole
             purpose is to earn your friendship, as well as to be a redeemable
             token for new games in the WEB2/WEB3 space.
           </p>
-          <p class="px-4 text-lg md:text-xl leading-relaxed mb-12">
+          <p class="px-4 text-3xl md:text-4xl  leading-relaxed mb-12">
             OMI is Charitable
           </p>
-          <p class="px-4 text-lg md:text-xl leading-relaxed mb-12">
+          <p class="px-4 text-3xl md:text-4xl  leading-relaxed mb-12">
             OMI has a fluffy heart OMI Doesn't Like Fraud
           </p>
-          <p class="px-4 text-lg md:text-xl leading-relaxed mb-12">
+          <p class="px-4 text-3xl md:text-4xl  leading-relaxed mb-12">
             OMI doesn't lie, OMI Loves You
           </p>
         </div>

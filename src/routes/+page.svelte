@@ -131,7 +131,7 @@
       class="text-white flex flex-col md:flex-row-reverse items-center justify-center h-screen mb-12"
     >
       <div class="animated flex flex-col items-center text-center">
-        <p class="font-serif text-3xl md:text-4xl mt-8">Welcome to OMI TOKEN</p>
+        <p class="font-serif text-5xl md:text-9xl mt-8">Welcome to OMI TOKEN</p>
         <b>Omchain network's first meme token</b>
         <div class="flex mt-4 space-x-4">
           <a
@@ -164,7 +164,7 @@
       </div>
       <img
         src="/images/logo.png"
-        class="w-96 h-96 md:w-64 md:h-64 mx-auto md:mr-auto"
+        class="w-96 h-96 md:w-96 md:min-h-96 mx-auto md:mr-auto"
         alt="Home Image"
       />
     </section>

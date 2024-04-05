@@ -83,26 +83,25 @@
             </div>
           </li>
           <li>
-            <!-- <div class="px-4 bg-green-500 border rounded p-3">
-  <a
-    href="#tokenomics"
-    class="px-4 text-white text-lg lg:text-xl hover:text-pink-500 hover:text-xl md:hover:bg-transparent md:border-0 md:hover:text-pink-500 md:p-0 animated"
-  >
-    <i class="px-4 bx bx-coin"></i> TOKENOMICS
-  </a>
-</div> -->
-          </li>
-          <li>
             <div class="px-4 bg-red-500 border rounded p-3">
               <a
-                href="#roadmap"
-                class="text-white text-lg lg:text-xl hover:text-pink-500 hover:text-xl md:hover:bg-transparent md:border-0 md:hover:text-pink-500 md:p-0 animated"
+                href="#tokenomics"
+                class="px-4 text-white text-lg lg:text-xl hover:text-pink-500 hover:text-xl md:hover:bg-transparent md:border-0 md:hover:text-pink-500 md:p-0 animated"
               >
-                <i class="bx bx-coin"></i> ROADMAP
+                <i class="px-4 bx bx-coin"></i> ROADMAP
               </a>
             </div>
           </li>
           <li>
+            <!-- <div class="px-4 bg-red-500 border rounded p-3">
+              <a
+                href="#roadmap"
+                class="text-white text-lg lg:text-xl hover:text-pink-500 hover:text-xl md:hover:bg-transparent md:border-0 md:hover:text-pink-500 md:p-0 animated"
+              >
+                <i class="px-4 bx bx-coin"></i> ROADMAP
+              </a>
+            </div>
+          </li> -->
             <!-- <div class="bg-purple-500 border rounded p-3">
   <a
     href="#partners"
@@ -177,18 +176,18 @@
           <h2 class="px-4 text-5xl md:text-6xl mt-8 font-bold mb-6">
             About OMI Token
           </h2>
-          <p class="px-4 text-3xl md:text-2xl  leading-relaxed mb-12">
+          <p class="px-4 text-3xl md:text-2xl leading-relaxed mb-12">
             OMI MEME is a polar movement dedicated to Crypto lovers. Its sole
             purpose is to earn your friendship, as well as to be a redeemable
             token for new games in the WEB2/WEB3 space.
           </p>
-          <p class="px-4 text-3xl md:text-4xl  leading-relaxed mb-12">
+          <p class="px-4 text-3xl md:text-4xl leading-relaxed mb-12">
             OMI is Charitable
           </p>
-          <p class="px-4 text-3xl md:text-4xl  leading-relaxed mb-12">
+          <p class="px-4 text-3xl md:text-4xl leading-relaxed mb-12">
             OMI has a fluffy heart OMI Doesn't Like Fraud
           </p>
-          <p class="px-4 text-3xl md:text-4xl  leading-relaxed mb-12">
+          <p class="px-4 text-3xl md:text-4xl leading-relaxed mb-12">
             OMI doesn't lie, OMI Loves You
           </p>
         </div>

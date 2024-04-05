@@ -23,11 +23,7 @@
         href="#"
         class="animated flex items-center space-x-3 rtl:space-x-reverse"
       >
-        <img
-          src="/logo.png"
-          class="h-12 rounded-full md:h-20"
-          alt="logo"
-        />
+        <img src="/logo.png" class="h-12 rounded-full md:h-20" alt="logo" />
         <span
           class="md:hidden lg:block text-lg md:text-3xl font-extrabold whitespace-nowrap text-blue-500"
           style="px-4 background-image: linear-gradient(to right, rgb(150, 24, 182), violet); color: transparent; -webkit-background-clip: text; background-clip: text;"

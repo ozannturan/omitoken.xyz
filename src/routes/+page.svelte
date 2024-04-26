@@ -85,7 +85,7 @@
           <li>
             <div class="px-4 bg-red-500 border rounded p-3">
               <a
-                href="#tokenomics"
+                href="#roadmap"
                 class="px-4 text-white text-lg lg:text-xl hover:text-pink-500 hover:text-xl md:hover:bg-transparent md:border-0 md:hover:text-pink-500 md:p-0 animated"
               >
                 <i class="px-4 bx bx-coin"></i> ROADMAP
@@ -150,7 +150,7 @@
             <i class="fab fa-twitter"></i>
           </a>
           <a
-            href="#"
+            href="https://t.me/OmiTokenTg"
             target="_blank"
             class="text-white text-3xl md:text-3xl mt-8 hover:text-gray-300 transition-all duration-300"
           >
@@ -236,18 +236,13 @@
             <div class="roadmap-milestone px-4 bg-blue-500">
               <h3 class="text-xl font-semibold px-4 mb-2">Pre-sale</h3>
               <p class="text-gray-100 px-4">
-                This typically refers to a phase before the official launch of a
-                project where a limited number of tokens are offered for sale to
-                early investors or supporters. Pre-sale participants often get
-                tokens at a discounted price compared to the public sale.
+                Coming Soon
               </p>
             </div>
             <div class="roadmap-milestone px-4 bg-green-500">
               <h3 class="text-xl font-semibold px-4 mb-2">Launch</h3>
               <p class="text-gray-100 px-4">
-                This marks the official start of the project. It could involve
-                the release of a product, platform, or service to the public, or
-                the initiation of operations in the case of a business.
+                Coming Soon
               </p>
             </div>
             <div class="roadmap-milestone px-4 bg-yellow-500">

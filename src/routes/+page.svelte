@@ -176,18 +176,18 @@
           <h2 class="px-4 text-5xl md:text-6xl mt-8 font-bold mb-6">
             About OMI Token
           </h2>
-          <p class="px-4 text-3xl md:text-2xl leading-relaxed mb-12">
+          <p class="px-4 text-xl md:text-2xl leading-relaxed mb-12">
             OMI MEME is a polar movement dedicated to Crypto lovers. Its sole
             purpose is to earn your friendship, as well as to be a redeemable
             token for new games in the WEB2/WEB3 space.
           </p>
-          <p class="px-4 text-3xl md:text-4xl leading-relaxed mb-12">
+          <p class="px-4 text-xl md:text-xl leading-relaxed mb-12">
             OMI is Charitable
           </p>
-          <p class="px-4 text-3xl md:text-4xl leading-relaxed mb-12">
+          <p class="px-4 text-xl md:text-xl leading-relaxed mb-12">
             OMI has a fluffy heart OMI Doesn't Like Fraud
           </p>
-          <p class="px-4 text-3xl md:text-4xl leading-relaxed mb-12">
+          <p class="px-4 text-xl md:text-xl leading-relaxed mb-12">
             OMI doesn't lie, OMI Loves You
           </p>
         </div>
@@ -243,43 +243,6 @@
               <h3 class="text-xl font-semibold px-4 mb-2">Launch</h3>
               <p class="text-gray-100 px-4">
                 Coming Soon
-              </p>
-            </div>
-            <div class="roadmap-milestone px-4 bg-yellow-500">
-              <h3 class="text-xl font-semibold px-4 mb-2">Listing</h3>
-              <p class="text-gray-100 px-4">
-                Listing refers to the process of getting a project's token
-                listed on cryptocurrency exchanges. Being listed on exchanges
-                increases the token's liquidity and accessibility, allowing more
-                people to trade it.
-              </p>
-            </div>
-            <div class="roadmap-milestone px-4 bg-red-500">
-              <h3 class="text-xl font-semibold px-4 mb-2">Partnership</h3>
-              <p class="text-gray-100 px-4">
-                Partnership involves forming alliances or collaborations with
-                other projects, companies, or organizations. Partnerships can
-                help in various ways such as expanding reach, accessing
-                resources, or enhancing credibility.
-              </p>
-            </div>
-            <div class="roadmap-milestone px-4 bg-purple-500">
-              <h3 class="text-xl font-semibold px-4 mb-2">Nft collection</h3>
-              <p class="text-gray-100 px-4">
-                NFT (Non-Fungible Token) collection refers to the creation and
-                release of unique digital assets on a blockchain. These assets,
-                often in the form of digital art, collectibles, or virtual real
-                estate, are tokenized and can be bought, sold, or traded.
-              </p>
-            </div>
-            <div class="roadmap-milestone px-4 bg-indigo-500">
-              <h3 class="text-xl font-semibold px-4 mb-2">Game</h3>
-              <p class="text-gray-100">
-                This could refer to the development and launch of a
-                blockchain-based game or gaming platform. Blockchain technology
-                offers unique features such as asset ownership, digital
-                scarcity, and decentralized economies, which can enhance gaming
-                experiences and enable new gameplay mechanics.
               </p>
             </div>
           </div>

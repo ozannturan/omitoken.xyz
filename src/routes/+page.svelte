@@ -176,18 +176,18 @@
           <h2 class="px-4 text-5xl md:text-6xl mt-8 font-bold mb-6">
             About OMI Token
           </h2>
-          <p class="px-4 text-xl md:text-2xl leading-relaxed mb-12">
+          <p class="px-4 text-xl md:text-2xl leading-relaxed mb-10">
             OMI MEME is a polar movement dedicated to Crypto lovers. Its sole
             purpose is to earn your friendship, as well as to be a redeemable
             token for new games in the WEB2/WEB3 space.
           </p>
-          <p class="px-4 text-xl md:text-xl leading-relaxed mb-12">
+          <p class="px-4 text-xl md:text-xl leading-relaxed mb-10">
             OMI is Charitable
           </p>
-          <p class="px-4 text-xl md:text-xl leading-relaxed mb-12">
+          <p class="px-4 text-xl md:text-xl leading-relaxed mb-10">
             OMI has a fluffy heart OMI Doesn't Like Fraud
           </p>
-          <p class="px-4 text-xl md:text-xl leading-relaxed mb-12">
+          <p class="px-4 text-xl md:text-xl leading-relaxed mb-10">
             OMI doesn't lie, OMI Loves You
           </p>
         </div>
